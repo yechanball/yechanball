@@ -16,5 +16,5 @@
 #
 
 ### GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yechanball&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yechanball&langs_count=10&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechanball&show_icons=true&theme=tokyonight)
